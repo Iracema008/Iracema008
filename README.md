@@ -1,6 +1,6 @@
 ## Iracema Cobian
 
-**`Aspiring Computer Developer`**
+**`Aspiring Software Engineer`**
 
 As a computer science undergraduate, I know how computer technology influences every part of our lives. While developing various data science prediction models, I'd like to study more about intelligence systems, particularly deep learning, and work with other scholars. I appreciate the logical hurdles of computer science, and I also relish the creative work which complements my passion for the arts. 
 
